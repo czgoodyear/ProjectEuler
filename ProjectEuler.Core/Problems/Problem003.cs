@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ProjectEuler.Core.Problems
+﻿namespace ProjectEuler.Core.Problems
 {
     [EulerProblem(3, "Largest Prime Factor")]
     public class Problem003 : EulerProblemBase
